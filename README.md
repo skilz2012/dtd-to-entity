@@ -4,4 +4,6 @@ There are too many utilities to convert XML schema to entity class, but few tool
 
 # How to use
 Simply execute command:
+```shell
 dotnet run app -i ~/dtd-to-entity/src/app/sample.dtd -o ~/dtd-to-entity/src/app/output
+```
